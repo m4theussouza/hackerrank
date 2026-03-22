@@ -10,11 +10,13 @@ This repository contains solutions to HackerRank challenges covering topics such
 
 ```
 src/
-└── hackerrank/
-    ├── arrays/
-    ├── strings/
-    ├── sorting/
-    └── ...
+└── main/
+    └── java/
+        └── hackerrank/
+            ├── arrays/
+            ├── strings/
+            ├── sorting/
+            └── ...
 ```
 
 ## Language
