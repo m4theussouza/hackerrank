@@ -10,13 +10,20 @@ This repository contains solutions to HackerRank challenges covering topics such
 
 ```
 src/
-└── main/
+├── main/
+│   └── java/
+│       └── hackerrank/
+│           └── arrays/
+│               └── CountElementsGreaterThanPreviousAverage/
+│                   ├── CountElementsGreaterThanPreviousAverage.java
+│                   ├── Solution.java
+│                   └── PROBLEM.md
+└── test/
     └── java/
         └── hackerrank/
-            ├── arrays/
-            ├── strings/
-            ├── sorting/
-            └── ...
+            └── arrays/
+                └── CountElementsGreaterThanPreviousAverage/
+                    └── CountElementsGreaterThanPreviousAverageTest.java
 ```
 
 ## Language
